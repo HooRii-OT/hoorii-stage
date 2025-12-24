@@ -83,4 +83,4 @@ The images below show a more complete and assembled prototype, demonstrating how
 
 Experience the future of belonging with AI.
 
-👉 [https://ai.hoorii.io/](https://ai.hoorii.io/)
+👉 [https://www.hoorii.io/](https://www.hoorii.io/)
