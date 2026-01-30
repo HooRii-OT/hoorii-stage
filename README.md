@@ -79,6 +79,18 @@ The images below show a more complete and assembled prototype, demonstrating how
 
 ---
 
+## 🎪 CES 2026 Showcase
+
+HooRii Stage made its debut at **CES 2026**, showcasing the future of HomeAI to the world. The images below capture the device in action at the exhibition, demonstrating its physical presence and interaction capabilities.
+
+![HooRii Stage at CES 2026](assets/images/hoorii-stage-ces-2026-1.jpeg)
+
+![HooRii Stage at CES 2026](assets/images/hoorii-stage-ces-2026-2.jpeg)
+
+![HooRii Stage at CES 2026](assets/images/hoorii-stage-ces-2026-3.jpeg)
+
+---
+
 ## 🚀 Join the Waitlist
 
 Experience the future of belonging with AI.
