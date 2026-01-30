@@ -31,9 +31,51 @@ Powered by smart IoT technology, you can control multiple smart home devices in 
 
 The AI character you create goes beyond a simple "voice assistant". Say something like “I’m so tired from work today”, and the AI can interpret intent and respond accordingly, such as adjusting lights or the indoor atmosphere to help you unwind.
 
+> ▶️ Watch AI-driven device control in action
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/shorts/6V5ae6tpPUc">
+        <img src="https://img.youtube.com/vi/6V5ae6tpPUc/hqdefault.jpg" width="400" />
+      </a>
+      <br />
+      <b>AI-Driven Device Control Demo #1</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/shorts/XCHVFCDHX3o">
+        <img src="https://img.youtube.com/vi/XCHVFCDHX3o/hqdefault.jpg" width="400" />
+      </a>
+      <br />
+      <b>AI-Driven Device Control Demo #2</b>
+    </td>
+  </tr>
+</table>
+
+> ▶️ Watch the AI character follow your voice and turn to face you
+
+[![HooRii Stage – Sound Localization Demo](https://img.youtube.com/vi/Rhvx_lUEI0g/hqdefault.jpg)](https://youtube.com/shorts/Rhvx_lUEI0g)
+
 > ▶️ Watch how the AI character reacts to its physical environment and responds to nearby events
 
-[![HooRii Stage – Environment-Aware AI Interaction Demo](https://img.youtube.com/vi/ObbCu7oA3UI/hqdefault.jpg)](https://youtu.be/ObbCu7oA3UI)
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/ObbCu7oA3UI">
+        <img src="https://img.youtube.com/vi/ObbCu7oA3UI/hqdefault.jpg" width="420" />
+      </a>
+      <br />
+      <b>Environment-Aware AI Interaction Demo</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtube.com/shorts/szsJ16Wja1k">
+        <img src="https://img.youtube.com/vi/szsJ16Wja1k/hqdefault.jpg" width="420" />
+      </a>
+      <br />
+      <b>Motion Feedback Demo</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
