@@ -121,6 +121,75 @@ The images below show a more complete and assembled prototype, demonstrating how
 
 ---
 
+## PCB Revision Gallery
+
+### Rev B01
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b01-top.jpg" width="420" />
+      <br />
+      <b>Top View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b01-bottom.jpg" width="420" />
+      <br />
+      <b>Bottom View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b01-3d.jpg" width="420" />
+      <br />
+      <b>3D Render</b>
+    </td>
+  </tr>
+</table>
+
+### Rev B02
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b02-top.jpg" width="420" />
+      <br />
+      <b>Top View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b02-bottom.jpg" width="420" />
+      <br />
+      <b>Bottom View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b02-3d.jpg" width="420" />
+      <br />
+      <b>3D Render</b>
+    </td>
+  </tr>
+</table>
+
+### Rev B03
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b03-top.jpg" width="420" />
+      <br />
+      <b>Top View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b03-bottom.jpg" width="420" />
+      <br />
+      <b>Bottom View</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/images/rev-b03-3d.jpg" width="420" />
+      <br />
+      <b>3D Render</b>
+    </td>
+  </tr>
+</table>
+
+
 ## 🎪 CES 2026 Showcase
 
 HooRii Stage made its debut at **CES 2026**, showcasing the future of HomeAI to the world. The images below capture the device in action at the exhibition, demonstrating its physical presence and interaction capabilities.
