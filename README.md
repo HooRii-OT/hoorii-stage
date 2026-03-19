@@ -11,6 +11,15 @@ ClawStage does not define the AI’s personality or memory — it **gives the AI
 This isn't just a **smarter home**.
 It's a **home with a soul** — one you created.
 
+<p align="center">
+  <a href="https://www.kickstarter.com/projects/hoorii/hoorii-stage-your-proactive-smart-personalized-companion-hub">
+    <img src="https://img.shields.io/badge/Kickstarter-Support%20our%20campaign-orange?style=for-the-badge&logo=kickstarter" alt="Back us on Kickstarter" />
+  </a>
+</p>
+<p align="center">
+  <b><a href="https://www.kickstarter.com/projects/hoorii/hoorii-stage-your-proactive-smart-personalized-companion-hub">Back us on Kickstarter →</a></b>
+</p>
+
 ---
 
 ## ✨ Core Features
