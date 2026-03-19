@@ -124,6 +124,27 @@ When creating an AI character, you can fully customize it or choose from preset 
 
 ---
 
+## 📋 Technical Specifications
+
+High-level hardware summary for ClawStage. *Specifications may change with product revisions; see the **PCB Revision Gallery** section below for board-specific updates.*
+
+| Feature | Description |
+| :--- | :--- |
+| **Product Dimensions** | Enclosure 92 × 92 × 184 mm (L × W × H). |
+| **Processing Unit** | Raspberry Pi 5 with 8 GB RAM. |
+| **Display** | 3.95" capacitive touchscreen, 720 × 720 resolution, 800 nits brightness. |
+| **Microphone** | Dual-microphone array, 65 dB(A) signal-to-noise ratio (SNR). |
+| **Speaker** | Integrated 3 W mono speaker. |
+| **Servo** | Operational rotation angle 5° to 175°. |
+| **Sensors** | 3-axis MEMS accelerometer and ambient light sensor. |
+| **Camera** | 1920 × 1080 (1080p), 83.9° field of view (FoV). |
+| **Storage** | 32 GB microSD (included); M.2 NVMe, 2230 / 2242 form factors supported. |
+| **Cooling** | Raspberry Pi 5 compatible bundled cooling fan. |
+| **Privacy Control** | Hardware switch to enable or disable microphone and camera. |
+| **Power** | USB Power Delivery (USB-PD) compatible power supply. |
+
+---
+
 ## 🧩 Hardware Prototype
 
 Below is an early **ClawStage hardware prototype**, illustrating the modular and extensible nature of the platform during development. The prototype integrates key components such as the compute module, display, camera, microphone array, and speakers, bringing AI characters into the physical world.
