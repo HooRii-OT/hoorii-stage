@@ -20,6 +20,14 @@ It's a **home with a soul** — one you created.
   <b><a href="https://www.kickstarter.com/projects/hoorii/hoorii-stage-your-proactive-smart-personalized-companion-hub">Back us on Kickstarter →</a></b>
 </p>
 
+> ▶️ Watch the project overview: From Chat to Claw: ClawStage Brings OpenClaw Into the Physical World
+
+<p align="center">
+  <a href="https://youtu.be/uguVrMO3Ib8">
+    <img src="assets/images/youtube-video-1.png" alt="From Chat to Claw: ClawStage Brings OpenClaw Into the Physical World" width="800" />
+  </a>
+</p>
+
 ---
 
 ## ✨ Core Features
