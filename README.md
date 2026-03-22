@@ -20,6 +20,14 @@ It's a **home with a soul** — one you created.
   <b><a href="https://www.kickstarter.com/projects/hoorii/hoorii-stage-your-proactive-smart-personalized-companion-hub">Back us on Kickstarter →</a></b>
 </p>
 
+> ▶️ Watch the project overview: A Real AI Assistant is Here 🔥🔥
+
+<p align="center">
+  <a href="https://youtu.be/l1qC7XyaCVc">
+    <img src="assets/images/youtube-video-2.png" alt="A Real AI Assistant is Here 🔥🔥" width="800" />
+  </a>
+</p>
+
 > ▶️ Watch the project overview: From Chat to Claw: ClawStage Brings OpenClaw Into the Physical World
 
 <p align="center">
@@ -126,22 +134,22 @@ When creating an AI character, you can fully customize it or choose from preset 
 
 ## 📋 Technical Specifications
 
-High-level hardware summary for ClawStage. *Specifications may change with product revisions; see the **PCB Revision Gallery** section below for board-specific updates.*
+High-level hardware summary for ClawStage. _Specifications may change with product revisions; see the **PCB Revision Gallery** section below for board-specific updates._
 
-| Feature | Description |
-| :--- | :--- |
-| **Product Dimensions** | Enclosure 92 × 92 × 184 mm (L × W × H). |
-| **Processing Unit** | Raspberry Pi 5 with 8 GB RAM. |
-| **Display** | 3.95" capacitive touchscreen, 720 × 720 resolution, 800 nits brightness. |
-| **Microphone** | Dual-microphone array, 65 dB(A) signal-to-noise ratio (SNR). |
-| **Speaker** | Integrated 3 W mono speaker. |
-| **Servo** | Operational rotation angle 5° to 175°. |
-| **Sensors** | 3-axis MEMS accelerometer and ambient light sensor. |
-| **Camera** | 1920 × 1080 (1080p), 83.9° field of view (FoV). |
-| **Storage** | 32 GB microSD (included); M.2 NVMe, 2230 / 2242 form factors supported. |
-| **Cooling** | Raspberry Pi 5 compatible bundled cooling fan. |
-| **Privacy Control** | Hardware switch to enable or disable microphone and camera. |
-| **Power** | USB Power Delivery (USB-PD) compatible power supply. |
+| Feature                | Description                                                              |
+| :--------------------- | :----------------------------------------------------------------------- |
+| **Product Dimensions** | Enclosure 92 × 92 × 184 mm (L × W × H).                                  |
+| **Processing Unit**    | Raspberry Pi 5 with 8 GB RAM.                                            |
+| **Display**            | 3.95" capacitive touchscreen, 720 × 720 resolution, 800 nits brightness. |
+| **Microphone**         | Dual-microphone array, 65 dB(A) signal-to-noise ratio (SNR).             |
+| **Speaker**            | Integrated 3 W mono speaker.                                             |
+| **Servo**              | Operational rotation angle 5° to 175°.                                   |
+| **Sensors**            | 3-axis MEMS accelerometer and ambient light sensor.                      |
+| **Camera**             | 1920 × 1080 (1080p), 83.9° field of view (FoV).                          |
+| **Storage**            | 32 GB microSD (included); M.2 NVMe, 2230 / 2242 form factors supported.  |
+| **Cooling**            | Raspberry Pi 5 compatible bundled cooling fan.                           |
+| **Privacy Control**    | Hardware switch to enable or disable microphone and camera.              |
+| **Power**              | USB Power Delivery (USB-PD) compatible power supply.                     |
 
 ---
 
