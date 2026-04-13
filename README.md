@@ -159,6 +159,8 @@ ClawStage includes a **hardware privacy switch** so you can cut off sensing when
 
 ### Microphone Mute Logic
 
+At a high level, muting the microphone means **the microphone array is powered off and disconnected from the system**. This hardware-based approach ensures that no audio can be captured or processed, even if software is running.
+
 The circuit uses **SW1** as the mute switch, **SW2** as the mute-control enable selector, **Q8 (AO3401A)** to switch **VDD_MIC**, and **U25 (74LVC125A)** to gate the microphone digital interface.
 
 Schematic: [`assets/schematics/SCH_Audio_XMOS_MuteControl.pdf`](assets/schematics/SCH_Audio_XMOS_MuteControl.pdf).
