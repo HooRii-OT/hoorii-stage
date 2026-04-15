@@ -20,6 +20,14 @@ It's a **home with a soul** — one you created.
   <b><a href="https://www.kickstarter.com/projects/hoorii/hoorii-stage-your-proactive-smart-personalized-companion-hub">Back us on Kickstarter →</a></b>
 </p>
 
+> ▶️ Watch the project overview: Unboxing the FUTURE! Claw Stage – OpenClaw AI Controls Robots 🤖
+
+<p align="center">
+  <a href="https://youtu.be/SFyUMjWj880">
+    <img src="assets/images/youtube-video-3.png" alt="Unboxing the FUTURE! Claw Stage – OpenClaw AI Controls Robots 🤖" width="800" />
+  </a>
+</p>
+
 > ▶️ Watch the project overview: A Real AI Assistant is Here 🔥🔥
 
 <p align="center">
